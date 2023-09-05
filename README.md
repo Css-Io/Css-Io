@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CassianoGobbo
 - 👀 I’m interested in becoming a fullstack developer
 - 🌱 I’m currently learning Python, C#, SQL.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project that serves as a learning experience
 - 📫 How to reach me. Email: cassianogobbo02@gmail.com
 
 
